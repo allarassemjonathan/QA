@@ -5,4 +5,4 @@ Simple Question Answer program based on the student directory of my college. Bec
 Check the video for a demonstration of the program.
 
 ## Sample of conversation
-<img src="https://github.com/allarassemjonathan/QA/blob/main/Capture.PNG" width=200, height=300>
+<img src="https://github.com/allarassemjonathan/QA/blob/main/Capture.PNG" width=300, height=300>
